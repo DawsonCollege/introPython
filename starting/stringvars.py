@@ -13,8 +13,8 @@ msg = "Hello World"
 print("msg")
 
 # display a variable ! 
+# yup, pythonk knows that msg is a variable so it  takes what is in it
 print(msg)
-
 
 # change the variable content
 msg = "Bonjour Monde"

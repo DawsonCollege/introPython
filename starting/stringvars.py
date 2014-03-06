@@ -3,6 +3,8 @@
 
 # they can be any name, I chose msg
 # here I put a string into a variable
+# Think of a box, you write on the outside of it that is the variable name
+# and you put things in it
 msg = "Hello World"
 
 
